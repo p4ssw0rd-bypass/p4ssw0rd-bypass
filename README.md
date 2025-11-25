@@ -16,5 +16,6 @@
   <li>🌱 不断学习，持续构建属于自己的安全武器库 | Building a personal cyber arsenal through constant learning</li>
   </ul>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p4ssw0rd-bypass&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p4ssw0rd-bypass&show_icons=true&theme=radical)
+
 
