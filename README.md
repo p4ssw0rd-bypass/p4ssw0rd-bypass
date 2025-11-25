@@ -17,7 +17,7 @@
   </ul>
 
 
-![L4's GitHub stats](https://github-readme-stats.vercel.app/api?username=p4ssw0rd-bypass&show_icons=true&theme=transparent)
-
-
+<a href="https://github.com/p4ssw0rd-bypass/">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=p4ssw0rd-bypass&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
 
